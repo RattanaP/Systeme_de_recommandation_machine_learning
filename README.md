@@ -1,10 +1,11 @@
-# Systeme_de_recommandation_machine_learning
+# Projet "Wild Code School" n°2 - MACHINE LEARNING
+### Systeme_de_recommandation_machine_learning
 
-Projet "Wild Code School" n°2 - machine learning
-Type de projet : Projet étudiant réalisé en groupe.
-Organisme : Wild Code School (campus de Lille)
-Durée du projet : 5 semaines
-Programmation : Python via Google Colab
+* Projet "Wild Code School" n°2 - machine learning
+* Type de projet : Projet étudiant réalisé en groupe.
+* Organisme : Wild Code School (campus de Lille)
+* Durée du projet : 5 semaines
+* Programmation : Python via Google Colab
 
 
 ### Problématique :
