@@ -26,3 +26,4 @@ Aucune donnée du client / Pas de vrai client en face à qui poser nos questions
 * Présentation finale Powerpoint
 * Présentation Powerpoint des éléments relatifs au marché
 * Lien vers les codes du système de recommandation
+* Fichier .csv final
