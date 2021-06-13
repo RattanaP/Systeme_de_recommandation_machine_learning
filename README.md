@@ -4,6 +4,8 @@ Projet "Wild Code School" n°2 - machine learning
 Type de projet : Projet étudiant réalisé en groupe.
 Organisme : Wild Code School (campus de Lille)
 Durée du projet : 5 semaines
+Programmation : Python via Google Colab
+
 
 ### Problématique :
 Création d'un système de recommandation de films pour le compte d'un gérant de cinéma, situé dans la Creuse, dans le but de l'aider à la sélection de films pour ses clients locaux.
